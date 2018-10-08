@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\27759c3147906f359bbca4878dae3c47\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\27759c3147906f359bbca4878dae3c47\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\27759c3147906f359bbca4878dae3c47\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.gus.wordsquiz.MainActivity
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:launchMode
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:14:13-43
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.gus.wordsquiz.GameActivity
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:parentActivityName
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:23:13-80
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:22:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:24:13-26:49
+	android:value
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:26:17-46
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:25:17-63
+activity#com.example.gus.wordsquiz.AboutActivity
+ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:32:13-49
+	android:parentActivityName
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:31:13-80
+	android:configChanges
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml:29:13-42
+uses-sdk
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\27759c3147906f359bbca4878dae3c47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\27759c3147906f359bbca4878dae3c47\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gus\Desktop\New folder\UniversityWork\WordsQuiz\app\src\main\AndroidManifest.xml

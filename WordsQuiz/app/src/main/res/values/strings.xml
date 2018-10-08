@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Words Quiz</string>
+    <string name="find_the_word_welcome_prompt">Welcome!</string>
+    <string name="bt_submit_text">submit</string>
+    <string name="welcome_explanation">A timer will start running when you click start. How fast can you find the word?</string>
+    <string name="default_text">Default</string>
+    <string name="bt_start_text">start</string>
+    <string name="answer_et_hint">Answer</string>
+    <string name="find_the_word_prompt">Find the word</string>
+    <string name="game_end_congrats_text">Congratulations</string>
+    <string name="bt_about_text">about</string>
+    <string name="author_description_text">I am a developer and a third year student at the
+        Technological Educational Institute of Athens. \nYou can find more about me in the link below.
+    <a href="gusandrianos.github.io">gusandrianos.github.io</a></string>
+    <string name="author_name">Kostas Andrianos</string>
+    <string name="default_time_value">00:00</string>
+</resources>
