@@ -1,0 +1,25 @@
+#!/bin/bash
+if [ $# -ne 3 ]
+then
+  echo Wrong number of arguments.
+else
+  found=$(who | grep -w $1)
+  if [ "$found" == "" ]
+  then
+    echo no such user
+  else
+    if [[ (-e $2) && (-e $3) ]]
+    then
+      cd $2
+      if [[ -f $3 ]]
+      then
+        tar -rvf $3 $2
+      else
+        cd $3
+        tar -cvf bcp.tar $2
+      fi
+    else
+      echo "One of your directories are not correct"
+    fi
+  fi
+fi
