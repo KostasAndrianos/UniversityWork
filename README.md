@@ -1,2 +1,2 @@
 # UniversityWork
-This is all my class work, during my studies at University of West Attica.
+This is some of my class work, during my studies at University of West Attica.
